@@ -11,9 +11,9 @@
 This is a work in progress for a hackathon project. We're currently focusing on developing a Minimum Viable Product (MVP) with the core functionalities mentioned above.
 
 ## Technologies
-- **Front-end:** React.js (or similar)
-- **Back-end:** Node.js (or similar)
-- **Database:** MongoDB (or similar) (optional)
+- **Front-end:** React.js 
+- **Back-end:** Node.js [Express.js]
+- **Database:** MongoDB 
 - **Large Language Models (LLMs):** Integration with APIs from providers like Bard (Google AI) or Jurassic-1 Jumbo (AI21 Labs) (subject to change)
 
 ## Contributing
